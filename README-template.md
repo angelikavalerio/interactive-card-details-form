@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/angelikavalerio/interactive-card-details-form/tree/main)
+- Live Site URL: [Add live site URL here](https://interactive-card-details-form-jade-three.vercel.app/)
 
 ## My process
 
@@ -50,5 +50,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@angelikavalerio](https://www.frontendmentor.io/profile/angelikavalerio)
 
