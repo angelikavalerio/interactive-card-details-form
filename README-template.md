@@ -12,8 +12,6 @@ This is a solution to the [Interactive card details form challenge on Frontend M
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -29,10 +27,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/desktop wo input.png)
-![](./screenshots/desktop - w input.png)
-![](./screenshots/mobile wo input.png)
-![](./screenshots/thank you page.png)
+![Desktop](./screenshots/desktop wo input.png)
+![DesktopInput](./screenshots/desktop - w input.png)
+![Mobile](./screenshots/mobile wo input.png)
+![ThankYou](./screenshots/thank you page.png)
 
 ### Links
 
