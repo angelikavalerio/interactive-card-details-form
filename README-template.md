@@ -27,10 +27,10 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./screenshots/desktop wo input.png)
-![DesktopInput](./screenshots/desktop - w input.png)
-![Mobile](./screenshots/mobile wo input.png)
-![ThankYou](./screenshots/thank you page.png)
+![Desktop](./screenshots/desktopwoinput.png)
+![DesktopInput](./screenshots/desktop-winput.png)
+![Mobile](./screenshots/mobilewoinput.png)
+![ThankYou](./screenshots/thankyoupage.png)
 
 ### Links
 
