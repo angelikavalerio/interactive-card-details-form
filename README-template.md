@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/angelikavalerio/interactive-card-details-form/tree/main)
+- Solution URL: [Add solution URL here](https://github.com/angelikavalerio/interactive-card-details-form/)
 - Live Site URL: [Add live site URL here](https://interactive-card-details-form-jade-three.vercel.app/)
 
 ## My process
