@@ -21,7 +21,7 @@
           }}</span>
           <span>{{
             cardDetails.expiryMonth === "" && cardDetails.expiryYear === ""
-              ? "09/23"
+              ? "00/00"
               : cardDetails.expiryMonth + "/" + cardDetails.expiryYear
           }}</span>
         </div>
