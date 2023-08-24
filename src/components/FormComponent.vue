@@ -9,8 +9,7 @@
       <input
         type="text"
         v-model="cardDetails.cardHolderName"
-        placeholder="e.g.
-      Jane Appleseed"
+        placeholder="e.g. Jane Appleseed"
         :class="{ border: cardDetails.cardHolderName !== '' }"
       />
       <label>Card Number</label>
@@ -29,7 +28,6 @@
               v-model="cardDetails.expiryMonth"
               id="month"
               class="date"
-              placeholder="MM"
               :class="{ border: cardDetails.expiryMonth !== '' }"
             >
               <option value="" disabled selected hidden>MM</option>
